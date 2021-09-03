@@ -50,10 +50,10 @@ You can checkout my learning journey on my public learner profiles:
 
 #### GitHub Stats:
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyhawkrad&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyhawkrad&layout=compact&theme=dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyhawkrad&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammyhawkrad&layout=compact&theme=dark&langs_count=6&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
   
-
+  
   
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&animation=default&layout=default&font=default)
 <!--
@@ -118,6 +118,6 @@ GIS & Data Science Tools
 <br>
 
 #### Wakatime Stats:
-[![sammyhawkrad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sammyhawkrad&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![sammyhawkrad's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sammyhawkrad&layout=compact&range=last_year)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
