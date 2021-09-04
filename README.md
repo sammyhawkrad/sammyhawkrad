@@ -17,13 +17,68 @@ I'm glad you are checking out my GitHub profile. I'm [Samuel Manu](https://sammy
 
 <br>
 <br>
+<br>
+
+
 
 #### Languages and Tools:
+
+Languages
+<div>
+<img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png">
+<img align="left" width=22 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png">
+<img align="left" width=30 src="assets/logos/js.svg">
+<img align="left" width=30 src="assets/logos/python.svg">
+
+</div>
+
+<br>
+<br>
+
+Web Development Tools
+<div>
+
+<img align="left" height=30 src="assets/logos/jQuery.svg">
+<img align="left" width=30 src="assets/logos/sass.svg">
+<img align="left" width=30 src="assets/logos/bootstrap.svg">
+<img align="left" width=30 src="assets/logos/vue.svg">
+<img align="left" width=30 src="assets/logos/django.svg">
+<img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+<img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png">
+<img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg">
+<img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg">
+<img align="left" height=30 src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg">
+<img align="left" height=30 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">
+
+
+</div>
+<br>
+<br>
+
+GIS & Data Science Tools
+<div>
+
+<img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg">
+<img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png">
+<img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg">
+<img align="left" width=30 src="https://wiki.openstreetmap.org/w/images/d/d1/OpenStreetMap-Logo.svg">
+<img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png">
+<img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg">
+<img align="left" width=30 src="https://geopandas.org/_images/geopandas_icon.png">
+
+</div>
+
+<br>
+<br>
+<br>
+
+
+<!-- #### Languages and Tools:
 
 
 | Languages                                                                                                                                                                                                                                                                                                                                                                                                                                              | Web Development Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | GIS & Data Science Tools                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <div> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"> <img align="left" width=22 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png"> <img align="left" width=30 src="assets/logos/js.svg"> <img align="left" width=30 src="assets/logos/python.svg"> </div> | <div>  <img align="left" height=30 src="assets/logos/jQuery.svg"> <img align="left" width=30 src="assets/logos/sass.svg"> <img align="left" width=30 src="assets/logos/bootstrap.svg"> <img align="left" width=30 src="assets/logos/vue.svg"> <img align="left" width=30 src="assets/logos/django.svg"> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"> <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png"> <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg"> <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"> <img align="left" height=30 src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"> <img align="left" height=30 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">  </div> | <div>  <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg"> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"> <img align="left" width=30 src="https://wiki.openstreetmap.org/w/images/d/d1/OpenStreetMap-Logo.svg"> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png"> <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> <img align="left" width=30 src="https://geopandas.org/_images/geopandas_icon.png"> </div> |
+| <div> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"> <img align="left" width=22 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png"> <img align="left" width=30 src="assets/logos/js.svg"> <img align="left" width=30 src="assets/logos/python.svg"> </div> | <div>  <img align="left" height=30 src="assets/logos/jQuery.svg"> <img align="left" width=30 src="assets/logos/sass.svg"> <img align="left" width=30 src="assets/logos/bootstrap.svg"> <img align="left" width=30 src="assets/logos/vue.svg"> <img align="left" width=30 src="assets/logos/django.svg"> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg"> <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/eb/MongoDB_Logo.png"> <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Netlify_logo.svg"> <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Heroku_logo.svg"> <img align="left" height=30 src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"> <img align="left" height=30 src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png">  </div> | <div>  <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/9/91/QGIS_logo_new.svg"> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/d/df/ArcGIS_logo.png"> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"> <img align="left" width=30 src="https://wiki.openstreetmap.org/w/images/d/d1/OpenStreetMap-Logo.svg"> <img align="left" width=30 src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Logo_square_postgis.png"> <img align="left" height=30 src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"> <img align="left" width=30 src="https://geopandas.org/_images/geopandas_icon.png"> </div> | -->
 
 #### Learning journey:
 
