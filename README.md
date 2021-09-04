@@ -34,6 +34,7 @@ Languages
 
 <br>
 <br>
+<br>
 
 Web Development Tools
 <div>
@@ -52,8 +53,11 @@ Web Development Tools
 
 
 </div>
+
 <br>
 <br>
+<br>
+
 
 GIS & Data Science Tools
 <div>
